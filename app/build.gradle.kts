@@ -63,7 +63,14 @@ android {
     compose = true
     buildConfig = true
   }
-  testOptions { unitTests { isIncludeAndroidResources = true } }
+  testOptions {
+    unitTests {
+      isIncludeAndroidResources = true
+      all {
+        it.systemProperty("robolectric.enabledSdks", "34")
+      }
+    }
+  }
   dependenciesInfo {
     includeInApk = false
     includeInBundle = true
