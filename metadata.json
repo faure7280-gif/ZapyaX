@@ -1,0 +1,6 @@
+{
+  "name": "ZapyaX",
+  "description": "Transferencia inalámbrica y ultrarrápida de archivos reales entre dispositivos cercanos con cifrado extremo a extremo AES-256, emparejamiento QR, modo dual 2x2 y soporte en segundo plano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

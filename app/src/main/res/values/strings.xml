@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZapyaX</string>
+    <string name="send_title">Enviar</string>
+    <string name="receive_title">Recibir</string>
+    <string name="history_title">Historial</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="qr_scan_title">Escanear QR de receptor</string>
+    <string name="qr_show_title">Código QR de recepción</string>
+    <string name="security_e2ee">Cifrado de extremo a extremo AES-256-GCM</string>
+    <string name="dual_channel_active">Modo Dual Stream: 2 archivos en simultáneo</string>
+    <string name="transfer_in_progress">Transferencia en progreso</string>
+    <string name="channel_notification_name">Transferencias ZapyaX</string>
+    <string name="channel_notification_desc">Muestra el progreso de transferencias en segundo plano de ZapyaX</string>
+</resources>
